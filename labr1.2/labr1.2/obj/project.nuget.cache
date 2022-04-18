@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGuGz4St+ujGMw5u1VcsayL/XXTmZRxZxa841O/rFKXCxOStGiZppSIKbQO5eRwptFW1YhRkfUkRHO1ZUJMZGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Katia\\source\\repos\\labr1.2\\labr1.2\\labr1.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Katia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
